@@ -17,7 +17,7 @@ Images we made using StyleGAN [link](https://thispersondoesnotexist.com/),
 Text profiles were created using custom made traits prompted to GPT-4o
 
 
-![sample_images](./assets/sample_profiles.png)
+![sample_images](assets/sample_profiles.png)
 
 
 
