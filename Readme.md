@@ -12,7 +12,7 @@ the underlying structure of data. Despite their shortcomings, we discover that o
 # Data
 The dataset used for this study was custom made using Generative AI. 
 
-Images we made using StyleGAN (link)[https://thispersondoesnotexist.com/],
+Images we made using StyleGAN [link](https://thispersondoesnotexist.com/),
 
 Text profiles were created using custom made traits prompted to GPT-4o
 
@@ -21,3 +21,21 @@ Text profiles were created using custom made traits prompted to GPT-4o
 
 
 
+# Using this repo
+
+## Recommendation
+The recommendation system proposed for this study is available here - [reco.py](./recommendation/reco.py)
+
+To perform recommendation and get performance statistics of the task, run [recommend.py](./recommendation/recommend.py)
+
+## Clustering
+Analysis of enbeddings clustered on certain "groups", e.g gender, height, hobbies, etc.
+
+## Embeddings
+This profile contains scripts to compute embeddings for different models.
+The dataset required for the task is hosted [here](https://drive.google.com/file/d/1EJyXe1Lsb_HWtzlnQN5crsReOaTFdQYR/view?usp=sharing). Access is currently limited to LionMail users, please send a request if you are interested in gaining access.
+
+## Dataset
+[Generated Profiles](https://drive.google.com/file/d/1EJyXe1Lsb_HWtzlnQN5crsReOaTFdQYR/view?usp=sharing)
+
+This folder contains scripts used to generate profiles and a feedback form to obtain user preferences.

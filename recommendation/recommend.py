@@ -12,6 +12,7 @@ init_plotting()
 
 
 # store all embeddings in pkl file
+# change path to file destination
 with open('../embeddings/30embds_text_llama_flava.pkl', 'rb') as f:
     modelembeddings = pkl.load(f)
 sources = list(modelembeddings.keys())
