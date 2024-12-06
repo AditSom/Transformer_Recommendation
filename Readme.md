@@ -8,3 +8,16 @@ dating app questions, we create artificial personalities for users. Additionally
 five text-only models including meta-llama-3-8B. Through feature analysis, we provide a framework for assessing a model’s comprehension of
 the underlying structure of data. Despite their shortcomings, we discover that our results offer a fresh approach to user profile recommendations.
 
+
+# Data
+The dataset used for this study was custom made using Generative AI. 
+
+Images we made using StyleGAN (link)[https://thispersondoesnotexist.com/],
+
+Text profiles were created using custom made traits prompted to GPT-4o
+
+
+![sample_images](./assets/sample_profiles.png)
+
+
+
