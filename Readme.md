@@ -43,6 +43,9 @@ This folder contains scripts used to generate profiles and a feedback form to ob
 # Instructions to run code
 Each directory has been organized to include one part of the research workflow
 
+`requirements.txt` indicates all required packages to run our experiments. 
+
+>(Models will be downloaded from hugging face, so please ensure you add hf_token to os environment. Also data required to run experiments has been linked to a gdrive location)
 ```
 root
 ├───clustering (Clustering embeddings computed based on metrics - height, hobbies, etc.)
