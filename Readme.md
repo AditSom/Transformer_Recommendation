@@ -16,6 +16,15 @@ Images we made using StyleGAN [link](https://thispersondoesnotexist.com/),
 
 Text profiles were created using custom made traits prompted to GPT-4o
 
+We received user preference through these forms:
+
+Please feel free to share your views - either the form data or any improvements we can make to improve data quality.
+We would be glad to make our analysis more robust and representative of the real world!
+
+Profiles of women: [link](https://forms.gle/o4BYUFpcUKHHzgWf9)
+
+Profiles of men: [link](https://forms.gle/h9QbCdCKL6ab5TpP6)
+
 
 ![sample_images](./assets/sample_profiles.png)
 

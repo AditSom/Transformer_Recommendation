@@ -10,6 +10,7 @@ add text traits which are implicit to make the personalities more evident and un
 There are a total of 30 profiles for Men and Woman each. 
 The structure of the dataset is:
 
+```
 root
 ├── Man
 │   ├── man_profile_1
@@ -29,6 +30,8 @@ root
     .
     .
 
+```
+
 
 ## Images
 
@@ -37,3 +40,11 @@ The images generated with StyleGAN were scraped from this website - 'https://thi
 ## Text
 
 personality_generator.py is used to create personalities for each profile.
+
+## Dataset Collection
+
+We created forms to receive user preference data. Please feel free to share your views - either the form data or any improvements we can make to improve data quality.
+
+Profiles of women: https://forms.gle/o4BYUFpcUKHHzgWf9
+
+Profiles of men: https://forms.gle/h9QbCdCKL6ab5TpP6
