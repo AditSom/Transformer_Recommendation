@@ -39,3 +39,24 @@ The dataset required for the task is hosted [here](https://drive.google.com/file
 [Generated Profiles](https://drive.google.com/file/d/1EJyXe1Lsb_HWtzlnQN5crsReOaTFdQYR/view?usp=sharing)
 
 This folder contains scripts used to generate profiles and a feedback form to obtain user preferences.
+
+# Instructions to run code
+Each directory has been organized to include one part of the research workflow
+
+```
+root
+├───clustering (Clustering embeddings computed based on metrics - height, hobbies, etc.)
+├───dataset (Creation of dataset)
+├───embeddings (Create embeddings of profiles from dataset using Multimodal+Text models)
+└───recommendation (Perform the recommendation task using profile embeddings and user feedback)
+```
+
+Each folder has separate instructions to run relevent code.
+Please refer to the docs to download any data that is required to be used by a script (uploaded on gdrive).
+
+## Contact
+The authors' contact information in case of further queries:
+```
+as7458@columbia.edu
+pkk2125@columbia.edu
+```
