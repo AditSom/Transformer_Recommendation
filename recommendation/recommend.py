@@ -13,6 +13,7 @@ init_plotting()
 
 # store all embeddings in pkl file
 # change path to file destination
+# embeddings stored at this drive link: https://drive.google.com/file/d/1ouWQAvIting0n88X2ssEddytp5F0kU2w/view?usp=drive_link
 with open('../embeddings/30embds_text_llama_flava.pkl', 'rb') as f:
     modelembeddings = pkl.load(f)
 sources = list(modelembeddings.keys())
