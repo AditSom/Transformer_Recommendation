@@ -69,6 +69,6 @@ Please refer to the docs to download any data that is required to be used by a s
 ## Contact
 The authors' contact information in case of further queries:
 ```
-as7458@columbia.edu
-pkk2125@columbia.edu
+Aditya Somasundaram: as7458[at]columbia[dot]edu
+Pranav Kumar: pkk2125[at]columbia[dot]edu
 ```
