@@ -20,3 +20,7 @@ Let ${v_i}$ be the embedding of the $i$-th user profile, where $i \in \{1, 2, \c
 
 ```
 
+## Choice of cluster type
+We cluster based in several factors for our analysis - height, gender, hobbies, etc.
+
+The formalism above can be extended to represent any set of "types" we want to cluster into. Once clustered, TSNE analysis is performed to visualize whether distinct groups are seen and relevant inferences are made.
